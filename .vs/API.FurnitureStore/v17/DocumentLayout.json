@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA36F971-B52E-4DD7-BB08-AC273DE55CEC}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA36F971-B52E-4DD7-BB08-AC273DE55CEC}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA36F971-B52E-4DD7-BB08-AC273DE55CEC}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA36F971-B52E-4DD7-BB08-AC273DE55CEC}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36142726-4E7B-4D9A-90FE-1667A362518A}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.data\\migrations\\20240313140612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36142726-4E7B-4D9A-90FE-1667A362518A}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|solutionrelative:api.furniturestore.data\\migrations\\20240313140612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36142726-4E7B-4D9A-90FE-1667A362518A}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.data\\apifurniturestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36142726-4E7B-4D9A-90FE-1667A362518A}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|solutionrelative:api.furniturestore.data\\apifurniturestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36142726-4E7B-4D9A-90FE-1667A362518A}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.data\\api.furniturestore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36142726-4E7B-4D9A-90FE-1667A362518A}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|solutionrelative:api.furniturestore.data\\api.furniturestore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E0FFE-500A-4C8E-BC32-7BBF9C61BB16}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.shared\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E0FFE-500A-4C8E-BC32-7BBF9C61BB16}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|solutionrelative:api.furniturestore.shared\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E0FFE-500A-4C8E-BC32-7BBF9C61BB16}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.shared\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E0FFE-500A-4C8E-BC32-7BBF9C61BB16}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|solutionrelative:api.furniturestore.shared\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E0FFE-500A-4C8E-BC32-7BBF9C61BB16}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.shared\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E0FFE-500A-4C8E-BC32-7BBF9C61BB16}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|solutionrelative:api.furniturestore.shared\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E0FFE-500A-4C8E-BC32-7BBF9C61BB16}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|c:\\users\\modernizacion\\desktop\\source\\repos\\api mastery .net\\api.furniturestore\\api.furniturestore\\api.furniturestore.shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E0FFE-500A-4C8E-BC32-7BBF9C61BB16}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|solutionrelative:api.furniturestore.shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240313140612_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\Migrations\\20240313140612_initial.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Data\\Migrations\\20240313140612_initial.cs",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\Migrations\\20240313140612_initial.cs",
+              "RelativeToolTip": "API.FurnitureStore.Data\\Migrations\\20240313140612_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:06:12.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Program.cs",
+              "RelativeToolTip": "API.FurnitureStore.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:43:24.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "API.FurnitureStore.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\appsettings.json",
+              "RelativeToolTip": "API.FurnitureStore.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T13:41:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API.FurnitureStore.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+              "RelativeToolTip": "API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T13:20:39.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIFurnitureStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
+              "RelativeToolTip": "API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:10:56.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Product.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Shared\\Product.cs",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Product.cs",
+              "RelativeToolTip": "API.FurnitureStore.Shared\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:00:37.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Shared\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\ProductCategory.cs",
+              "RelativeToolTip": "API.FurnitureStore.Shared\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:59:39.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Order.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Shared\\Order.cs",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Order.cs",
+              "RelativeToolTip": "API.FurnitureStore.Shared\\Order.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:56:59.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Client.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Shared\\Client.cs",
+              "ToolTip": "C:\\Users\\Modernizacion\\Desktop\\source\\repos\\API Mastery .NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Client.cs",
+              "RelativeToolTip": "API.FurnitureStore.Shared\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:52:41.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

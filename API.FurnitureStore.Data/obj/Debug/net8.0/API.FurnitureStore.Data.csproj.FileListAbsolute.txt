@@ -1,0 +1,17 @@
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net8.0\API.FurnitureStore.Data.deps.json
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net8.0\API.FurnitureStore.Data.runtimeconfig.json
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net8.0\API.FurnitureStore.Data.dll
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net8.0\API.FurnitureStore.Data.pdb
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net8.0\API.FurnitureStore.Shared.dll
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net8.0\API.FurnitureStore.Shared.pdb
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.FurnitureStore.Data.csproj.AssemblyReference.cache
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.FurnitureStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.FurnitureStore.Data.AssemblyInfoInputs.cache
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.FurnitureStore.Data.AssemblyInfo.cs
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.FurnitureStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.Furn.13821F83.Up2Date
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.FurnitureStore.Data.dll
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\refint\API.FurnitureStore.Data.dll
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.FurnitureStore.Data.pdb
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\API.FurnitureStore.Data.genruntimeconfig.cache
+C:\Users\Modernizacion\source\repos\API Mastery .NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net8.0\ref\API.FurnitureStore.Data.dll
